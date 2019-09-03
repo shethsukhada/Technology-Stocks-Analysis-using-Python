@@ -2,8 +2,8 @@
 
 Analyzed the technology stocks viz Google, Microsoft, Twitter and Amazon to study the trend of daily price, daily return, moving average etc. Also derived the risk involved based on the historical performance of the stocks using Monte Carlo technique.
 
-Libraries Used : pandas, numpy, matplotlib, seaborn
-Data Source    : yahoo finance ( used pandas_datareader.data to extract the data from yahoo finance. )
+-	Libraries Used : pandas, numpy, matplotlib, seaborn
+-	Data Source    : yahoo finance ( used pandas_datareader.data to extract the data from yahoo finance. )
 
 Initial Analysis :
 1. Analyzed the trend of Adjusted Closing Price, Stock Volume and Moving Averages over 10,20 and 50 days.
