@@ -18,11 +18,12 @@ Value at risk tell you the maximum amount you could lose for any given stock.
  
  
  
- Stock Study Material :
+Useful Links Referred :
  
  https://www.investopedia.com/terms/v/var.asp
  https://www.investopedia.com/terms/r/risk-analysis.asp
  https://www.investopedia.com/terms/m/montecarlosimulation.asp
+ https://www.investopedia.com/articles/07/montecarlo.asp
 
 
 
