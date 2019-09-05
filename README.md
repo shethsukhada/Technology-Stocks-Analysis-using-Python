@@ -16,6 +16,13 @@ Used Bootstrap and Monte Carlo methods to get the value at risk.
 Value at risk tell you the maximum amount you could lose for any given stock.
  -	Bootstrap Method - For this calculated empirical quantiles from a histogram of daily returns
  
+ 
+ 
+ Stock Study Material :
+ 
+ https://www.investopedia.com/terms/v/var.asp
+ https://www.investopedia.com/terms/r/risk-analysis.asp
+ https://www.investopedia.com/terms/m/montecarlosimulation.asp
 
 
 
