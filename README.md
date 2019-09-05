@@ -9,7 +9,13 @@ Initial Analysis :
 1. Analyzed the trend of Adjusted Closing Price, Stock Volume and Moving Averages over 10,20 and 50 days.
 2. Studied the daily stock returns for all stocks, compared the daily stock returns in pair to see if there is linear relationship.
 3. Used pair-plot for visual comparison of all the stock comparisons for Daily Returns and Closing Prices.
-4. Used the correlation plot to compare the actual numerical values for the correlation between the stocks' daily return values.
+4. Used the correlation plot to compare the actual numerical values for the correlation between the stocks' daily return values. Used heatmap to plot the correlation.
+
+Value at Risk Analysis :
+Used Bootstrap and Monte Carlo methods to get the value at risk.
+Value at risk tell you the maximum amount you could lose for any given stock.
+ -	Bootstrap Method - For this calculated empirical quantiles from a histogram of daily returns
+ 
 
 
 
