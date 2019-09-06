@@ -25,14 +25,14 @@ Value at risk tell you the maximum amount you could lose for any given stock.
 			 -	t is time, and 
 			 -	epsilon is the random variable.
 			 
-		-	Used random function to genearte random coefficient, used daily returns to calculate sigma and mu. Developed a logic to calculate above formula in loop for more than 1000 occurences for 365 days each. 
-		-	Plotted the graph of only the last values in 365 days and calculated the VaR using empirical quartile at 0.01.
-		
-================================================================================================
+			 
+==============================================================================
 
 Conclusion - For every initial stock purchase of Google stock one would be putting $40.38 at risk 99% of the time from our Monte Carlo Simulation.
 
-=================================================================================================
+===============================================================================
+
+
 Useful Links Referred :
 
  https://www.investopedia.com/terms/v/var.asp
