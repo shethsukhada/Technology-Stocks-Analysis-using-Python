@@ -15,7 +15,20 @@ Value at Risk Analysis :
 Used Bootstrap and Monte Carlo methods to get the value at risk.
 Value at risk tell you the maximum amount you could lose for any given stock.
  -	Bootstrap Method - For this calculated empirical quantiles from a histogram of daily returns
- 
+ -	Monte Carlo Method - used geometric Brownian motion (GBM) along with Monte Carlo Method
+ 		Monte Carlo Method - We run many trials with random market conditions, then we calculate portfolio losses for each trial. At the end, we use the aggregation of all these simulations to establish how risky the stock is.
+		 geometric Brownian motion (GBM) means that past information on the price of a stock is independent of where the stock price will be in the future, basically meaning, we can't perfectly predict the future solely based on the previous price of a stock.
+		 ΔS=S(μΔt+σϵ√Δt)
+			 Where S is the stock price, 
+			 mu is the expected return (which we calculated earlier),
+			 sigma is the standard deviation of the returns, 
+			 t is time, and 
+			 epsilon is the random variable.
+			 
+			 Used random function to genearte random coefficient, used daily returns to calculate sigma and mu. Developed a logic to calculate above formula in loop for more than 1000 occurences for 365 days each. 
+			 Plotted the graph of only the last values in 365 days and calculated the VaR using empirical quartile at 0.01.
+			 
+Conclusion - For every initial stock purchase of Google stock one would be putting $40.38 at risk 99% of the time from our Monte Carlo Simulation.
 Useful Links Referred :
 
  https://www.investopedia.com/terms/v/var.asp
