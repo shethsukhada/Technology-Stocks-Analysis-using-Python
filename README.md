@@ -38,10 +38,10 @@ Value at risk tell you the maximum amount you could lose for any given stock.
 ==============================================================================
 
 Conclusion - 
--	Amazon for every initial stock purchase one would be putting $54.61 at risk 99% of the time (initial price 1192.95 )
--	Google for every initial stock purchase one would be putting $41.11 at risk 99% of the time ( initial price 1065.96)
--	Microsoft for every initial stock purchase one would be putting $3.05 at risk 99% of the time ( initial price 83.75)
--	Twitter for every initial stock purchase one would be putting $1.80 at risk 99% of the time ( initial price 24.62)
+-	Amazon : for every initial stock purchase one would be putting $54.61 at risk 99% of the time (initial price 1192.95 )
+-	Google : for every initial stock purchase one would be putting $41.11 at risk 99% of the time ( initial price 1065.96)
+-	Microsoft :  for every initial stock purchase one would be putting $3.05 at risk 99% of the time ( initial price 83.75)
+-	Twitter : for every initial stock purchase one would be putting $1.80 at risk 99% of the time ( initial price 24.62)
 
 ===============================================================================
 
