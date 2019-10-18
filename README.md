@@ -1,5 +1,8 @@
 # Technology-Stocks-Analysis-using-Python
 
+Direct link to the code in case github fails to render the file here
+https://nbviewer.jupyter.org/github/shethsukhada/Technology-Stocks-Analysis-using-Python/blob/master/stock_market_analysis.ipynb
+
 Analyzed the technology stocks viz Google, Microsoft, Twitter and Amazon to study the trend of daily price, daily return, moving average etc. Also derived the risk involved based on the historical performance of the stocks using Monte Carlo technique.
 
 -	Libraries Used : pandas, numpy, matplotlib, seaborn
